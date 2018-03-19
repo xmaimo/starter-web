@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# xavier maimo Perez
+# xavier maimo Anton
 
 # TEAM
 
